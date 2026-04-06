@@ -9,6 +9,8 @@
 
 ## Contenidos:
 1. [Git - Git Flow - GitHub](docs/git.md)
+2. [.NET Architecture](docs/.net-architecture.md)
+3. [C# & .NET Core](docs/.net-core.md)
 
 ## Evaluaciones:
 - **Ganancia de curso con 70 puntos** 
